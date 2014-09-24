@@ -3,7 +3,8 @@
 
 Body
 {
-background-color :blue;
+background-image: url('hg.png');
 font-family: helvetica;
-color: white;
+color: #48D1CC;
+background-color: pink;
 }
